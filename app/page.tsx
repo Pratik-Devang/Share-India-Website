@@ -169,23 +169,41 @@ const SERVICE_PILLARS = [
 
 const AWARDS = [
   {
+    year: '2026',
+    award:
+      'Ajaykumar Patel was named Visionary AI & Digital Leader of the Year at the 5th Future of Insurance Summit & Awards, presented by UBS Forums.',
+    img: '/awards/visionary-ai-digital-leader-2026.jpg',
+  },
+  {
+    year: '2026',
+    award:
+      'Prakash Dumble received the Excellence in Risk Management & Underwriting Innovation award at the 5th Future of Insurance Summit & Awards, presented by UBS Forums.',
+    img: '/awards/risk-management-underwriting-innovation-2026.jpg',
+  },
+  {
+    year: '2026',
+    award:
+      'Shekhar Pradhan was recognised as Strategic Corporate Claims Partner of the Year at the 5th Future of Insurance Summit & Awards, presented by UBS Forums.',
+    img: '/awards/strategic-corporate-claims-partner-2026.jpg',
+  },
+  {
     year: '2022',
-    award: 'SME Superstars — Awarded to SIIB by Chola MS',
+    award: 'Share India Insurance Brokers was recognised as an SME Superstar by Chola MS.',
     img: '/awards/chola-ms.jpeg',
   },
   {
     year: '2024',
-    award: 'Diamond Club — Awarded to SIIB by Digit Inner Circle',
+    award: 'Share India Insurance Brokers earned Diamond Club recognition from Digit Inner Circle.',
     img: '/awards/digit.jpeg',
   },
   {
     year: '2025',
-    award: 'CEO of the Year to Mr. Ajay Kumar Patel — Awarded by UBS Forums',
+    award: 'Ajay Kumar Patel was recognised as CEO of the Year by UBS Forums.',
     img: '/awards/ubs-ceo.jpeg',
   },
   {
     year: '2025',
-    award: 'Best Claims Partner of the Year — Awarded to SIIB by UBS Forums',
+    award: 'Share India Insurance Brokers was named Best Claims Partner of the Year by UBS Forums.',
     img: '/awards/ubs-claims.jpeg',
   },
 ];
